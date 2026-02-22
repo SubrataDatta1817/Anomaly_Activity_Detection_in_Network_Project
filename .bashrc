@@ -1,0 +1,1 @@
+source ~/Anomaly_Activity_Detection_in_Network_Project/set_path.sh
